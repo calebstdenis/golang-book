@@ -2,4 +2,4 @@ Solutions to the coding exercises from the book _Introducing Go: Build Reliable,
 
 This is me taking [RZA](https://en.wikipedia.org/wiki/RZA)'s advice by cultivating novice mind. 
 
-It's is easy and unoriginal, but hey, it's the weekend.
+It's easy and unoriginal, but hey, it's the weekend.
